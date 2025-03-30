@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 3C99-187F
-
- Directory of C:\Users\Admin\Desktop\New folder
-
-03/30/2025  10:20 AM    <DIR>          .
-03/30/2025  10:20 AM    <DIR>          ..
-03/30/2025  10:20 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  60,195,917,824 bytes free
+test 644646
